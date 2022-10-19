@@ -17,3 +17,8 @@
 .header a:hover{
     color: orange;
 }
+.btnLogOut{
+    padding: 14px 18px;
+    background-color: orange;
+    border: none;
+}
